@@ -1,0 +1,1 @@
+This is a code for a smart irrigation farming system. It helps farmer  to receive short message signal (sms) anywhere from their farms whenever water pump turns ON or OFF according to farm soil moisture and environmental conditions.
